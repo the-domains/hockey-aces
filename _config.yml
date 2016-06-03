@@ -1,0 +1,28 @@
+name: Hockey Aces
+favicon: null
+layout_spectrum: 0.2695787569973618
+typography_spectrum: 0.5947785589378327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8194283070042729
+  lightness: 0.44127045245841146
+  saturation: 0.3040877424646169
+  rhythmicContrast: 0.6323893673252314
+purpose: []
